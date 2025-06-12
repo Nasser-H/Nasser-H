@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="224" src="https://camo.githubusercontent.com/478c8bdb1ee28b364cf7e804dcef59fddb6ea99848db29d2a26ef96c29bfe4e8/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f36353139386236652d653430372d346338662d383530302d3637363863623335613736635f6361725f3178312e6769663f683d6366326565323431333536313031633632376533656664373438643539386330"  />
+<img align="right" height="307" src="https://camo.githubusercontent.com/478c8bdb1ee28b364cf7e804dcef59fddb6ea99848db29d2a26ef96c29bfe4e8/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f36353139386236652d653430372d346338662d383530302d3637363863623335613736635f6361725f3178312e6769663f683d6366326565323431333536313031633632376533656664373438643539386330"  />
 
 ###
 
@@ -32,6 +32,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -77,9 +79,11 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasser-H&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Nasser-H&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasser-H&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="213" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Nasser-H&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasser-H&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
