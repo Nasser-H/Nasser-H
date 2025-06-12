@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at my [Portfolio](https://nasser-hussein.vercel.app/)</p>
+<p align="left">👨‍💻 All of my projects are available at my <a href="https://nasser-hussein.vercel.app/" target="_blank">Portfolio</a></p>
 
 ###
 
