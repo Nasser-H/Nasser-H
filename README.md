@@ -31,11 +31,19 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at my <a href="https://nasser-hussein.vercel.app/" target="_blank">Portfolio</a></p>
+<p align="left">👨‍💻 All of my projects are available at my <a href="nasser-hussein.vercel.app" target="_blank">Portfolio</a></p>
 
 ###
 
 <p align="left">💬 Ask me about React , Next.js</p>
+
+###
+
+<p align="left">📫 How to reach me <a href="mailto:nasser.h0404@gmail.com" target="_blank">nasser.h0404@gmail.com</a></p>
+
+###
+
+<p align="left">⚡ Fun fact I am Funny</p>
 
 ###
 
@@ -88,14 +96,9 @@
 ###
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nasser-H&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="213" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Nasser-H&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasser-H&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nasser-H/Nasser-H/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nasser-H/Nasser-H/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nasser-H/Nasser-H/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
